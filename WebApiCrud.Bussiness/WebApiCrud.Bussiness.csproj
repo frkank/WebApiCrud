@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApiCrud.Data\WebApiCrud.Data.csproj" />
+    <ProjectReference Include="..\WebApiCrud.Entity\WebApiCrud.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c36bfb49-5142-4ff8-b0c7-8231631d8627": {
+      "ProjectGuid": "c36bfb49-5142-4ff8-b0c7-8231631d8627",
+      "DisplayName": "WebApiCrud.Entity",
+      "ColorIndex": 0
+    },
+    "fdf9b19f-d183-474d-af5d-833d4efb0cd2": {
+      "ProjectGuid": "fdf9b19f-d183-474d-af5d-833d4efb0cd2",
+      "DisplayName": "WebApiCrud.Bussiness",
+      "ColorIndex": 1
+    },
+    "3a87ba59-d0c8-4bec-82b4-5873dd323939": {
+      "ProjectGuid": "3a87ba59-d0c8-4bec-82b4-5873dd323939",
+      "DisplayName": "WebApiCrud.Data",
+      "ColorIndex": 2
+    },
+    "318a9bc1-43ce-4e66-92e7-d1e9df6c6c09": {
+      "ProjectGuid": "318a9bc1-43ce-4e66-92e7-d1e9df6c6c09",
+      "DisplayName": "WebApiCrud.WepApi",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

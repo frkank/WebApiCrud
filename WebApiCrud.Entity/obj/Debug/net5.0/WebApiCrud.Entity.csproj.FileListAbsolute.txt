@@ -1,0 +1,12 @@
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\bin\Debug\net5.0\WebApiCrud.Entity.deps.json
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\bin\Debug\net5.0\WebApiCrud.Entity.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\bin\Debug\net5.0\ref\WebApiCrud.Entity.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\bin\Debug\net5.0\WebApiCrud.Entity.pdb
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\WebApiCrud.Entity.csproj.AssemblyReference.cache
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\WebApiCrud.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\WebApiCrud.Entity.AssemblyInfoInputs.cache
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\WebApiCrud.Entity.AssemblyInfo.cs
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\WebApiCrud.Entity.csproj.CoreCompileInputs.cache
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\WebApiCrud.Entity.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\ref\WebApiCrud.Entity.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Entity\obj\Debug\net5.0\WebApiCrud.Entity.pdb

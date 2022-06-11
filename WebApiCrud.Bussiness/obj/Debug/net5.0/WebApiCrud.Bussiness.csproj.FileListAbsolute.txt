@@ -1,0 +1,17 @@
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\WebApiCrud.Bussiness.deps.json
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\WebApiCrud.Bussiness.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\ref\WebApiCrud.Bussiness.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\WebApiCrud.Bussiness.pdb
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\WebApiCrud.Data.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\WebApiCrud.Entity.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\WebApiCrud.Data.pdb
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\bin\Debug\net5.0\WebApiCrud.Entity.pdb
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.csproj.AssemblyReference.cache
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.AssemblyInfoInputs.cache
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.AssemblyInfo.cs
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.csproj.CopyComplete
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\ref\WebApiCrud.Bussiness.dll
+C:\Users\kahyaoğlu61\Desktop\WebApiCrud\WebApiCrud.Bussiness\obj\Debug\net5.0\WebApiCrud.Bussiness.pdb
